@@ -1,4 +1,4 @@
-# TextAdventure
+# Text Adventure
 A small project that takes the user through a text adventure
 
 ### Basic Instructions
