@@ -9,3 +9,4 @@ A small project that takes the user through a text adventure
 5. Use if-statements to allow the user's input to affect how the program executes
 6. Make commits as you go
 7. Be creative!
+8. Submit a pull request to merge your changes to the `master` branch
